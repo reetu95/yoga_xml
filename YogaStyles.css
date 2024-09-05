@@ -1,0 +1,44 @@
+YogaAsana {
+    font-family: 'Georgia', serif; /* Elegant serif font for a refined look */
+    color: #5D3FD3; /* Soothing purple for a calming effect */
+    font-size: 60px; /* Large font size for visibility */
+    padding: 20px;
+    background-color: #f4f4f9; /* Very light gray for minimal glare */
+    text-align: center; /* Central alignment for all content within */
+    border-bottom: 2px solid #D3D3D3; /* Subtle separation line at the bottom */
+}
+
+asanas {
+    display: block;
+    margin: 20px auto; /* Centers the block and adds vertical spacing */
+    font-size: 24px; /* Suitable for detailed reading */
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #ffffff; /* Crisp white background for high contrast */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Soft shadow for a 3D effect */
+    width: 80%; /* Restricting width to enhance centering */
+    max-width: 800px; /* Maximum width to avoid overly wide blocks on larger screens */
+}
+
+item img {
+    width: 60%; /* Optimized for detailed visibility */
+    height: auto; /* Maintains image aspect ratio */
+    display: block;
+    margin: 20px auto; /* Centers image and adds vertical spacing */
+}
+
+name, description {
+    display: block;
+    color: #2E4053; /* Deep navy blue for elegance */
+    font-weight: bold;
+    font-size: 30px; /* Distinguished size for clear hierarchy */
+    padding: 10px;
+    border-left: 5px solid #5D3FD3; /* Stylish purple sidebar indicator */
+    margin: 10px auto; /* Automatically centers and adds space between entries */
+    width: 75%; /* Restrictive width for better text alignment */
+}
+
+name {
+    font-size: 36px; /* Slightly larger to emphasize the title */
+    margin-top: 20px; /* Extra space above each asana name for visual separation */
+}

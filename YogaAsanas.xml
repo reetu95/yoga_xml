@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="YogaStyles.css" type="text/css"?>
+<YogaAsanas>
+    <Asana id = "1">
+        <name> Surya Namaskara </name>
+        <description> Sun Salutation, a sequence of twelve powerful yoga postures</description>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+        <img src = "https://i.pinimg.com/originals/22/e4/a8/22e4a8840e83c9a313e07dd35170c620.gif"/>
+    </html>
+    </Asana>
+    <Asana id = "2">
+        <name> Chandra Namaskara </name>
+        <description> Chandra Namaskara, also known as Moon Salutation, is a series of yoga asanas that contrasts the dynamic and heating Sun Salutation by being more cooling and calming, ideal for evening practice or times of relaxation.</description>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+        <img src = "https://i.pinimg.com/564x/ef/2f/31/ef2f31b25647cbf4cf0853752db28615.jpg"/>
+    </html>
+    </Asana>
+</YogaAsanas>
